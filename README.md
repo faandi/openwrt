@@ -1,4 +1,3 @@
-
 # Compilation #
 
 * get openwrt sources
@@ -31,6 +30,7 @@
 
   ```
   ./scripts/feeds install te923tool
+  ./scripts/feeds install mumudvb
   ```
 
 * configure and make
